@@ -24,7 +24,7 @@ _Web uygulaması için hazırlanan örnek bir use case diyagramı;_
 
 ## SIEM için Use Case örnekleri;
 
-_“Bir kullanıcı arada hiç başarılı oturum açmadan 5 dakikada 3 tane oturum açma denesi yapıyor ve başarısız oluyorsa uyar”._
+_“Bir kullanıcı arada hiç başarılı oturum açmadan 5 dakikada 3 tane oturum açma denemesi yapıyor ve başarısız oluyorsa uyar”._
 
 _“Aynı kullanıcı 2 farklı makinada 15 dakika içinde başarısız oturum deniyor ve 2. Başarısız oturumdan sonraki 5 dakika içerisinde bu makinalardan birinden tehdit istihbarat listesindeki bir IP ye erişim isteği oluyor ise uyar.”_
 
